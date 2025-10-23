@@ -20,7 +20,7 @@ Pastikan Anda telah menginstal Flutter di lingkungan pengembangan Anda. Untuk in
 
 1.  **Clone repositori:**
     ```bash
-    git clone https://github.com/username/tugas2.git
+    git clone https://github.com/avhan052-arch/tugas2.git
     ```
 2.  **Masuk ke direktori proyek:**
     ```bash
