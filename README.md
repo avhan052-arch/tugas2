@@ -43,9 +43,7 @@ Pastikan Anda telah menginstal Flutter di lingkungan pengembangan Anda. Untuk in
 
 | Halaman Utama | Halaman Detail |
 | :---: | :---: |
-| ![Halaman Utama](link-ke-screenshot-halaman-utama.png) | ![Halaman Detail](link-ke-screenshot-halaman-detail.png) |
-
-**Catatan:** Ganti `link-ke-screenshot-halaman-utama.png` dan `link-ke-screenshot-halaman-detail.png` dengan path atau URL ke screenshot aplikasi Anda.
+| ![Halaman Utama](lib/Assets/ss1.png) | ![Halaman Detail](lib/Assets/ss2.png) |
 
 ## 👥 Anggota Kelompok 7
 
